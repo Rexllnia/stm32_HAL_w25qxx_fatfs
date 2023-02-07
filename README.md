@@ -1,5 +1,5 @@
 ﻿# stm32_HAL_w25qxx_fatfs
-##stm32CubeMX fatfs配置
+## stm32CubeMX fatfs配置
 最大扇区大小4096
 ## 片选端口定义
 #define SPI_CS_GPIO_Port GPIOB  
