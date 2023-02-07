@@ -36,7 +36,6 @@
 #include <string.h>
 #include "ff_gen_drv.h"
 #include "diskio.h"		/* Declarations of disk functions */
-#include "SDdriver.h"
 #include "spi.h"
 #include "w25qxx.h"
 /* Private typedef -----------------------------------------------------------*/
